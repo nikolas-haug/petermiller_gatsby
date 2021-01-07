@@ -29,6 +29,7 @@ const Typography = createGlobalStyle`
     h3,
     h4 {
         font-family: FuturaMedium, sans-serif;
+        margin: 0;
     }
 `;
 
